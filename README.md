@@ -24,6 +24,6 @@ My approach to developing programs was iterative and user-focused. I embraced Ag
 
 Being a good team member in software development involved effective communication, collaboration, and a commitment to shared goals. It meant actively participating in discussions, being open to feedback, and supporting fellow team members in their tasks. In the Scrum environment, this was particularly important as we relied on each other’s strengths to deliver high-quality work. A good team member also took responsibility for their contributions, met deadlines, and fostered a positive and inclusive team culture. By being adaptable and willing to help others, we created an environment where everyone felt valued and motivated to succeed.
 
-### Conclusion
+## Conclusion
 
 Reflecting on these essential questions deepened my understanding of the software development process, especially within the Agile framework. By focusing on user needs, embracing Agile methodologies, and striving to be a supportive team member, I aimed to contribute positively to the success of the SNHU Travel application and future projects at ChadaTech.
