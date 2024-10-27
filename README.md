@@ -1,4 +1,12 @@
 # Project: SNHU Travel Application Development
+# Competency
+
+-Explain the different methodologies and stages involved in the software development life cycle
+
+-Apply the stages of the software development life cycle within an agile development environment
+
+-Evaluate various software development methodologies and tools
+
 # Description
 This project involves the development of an innovative application for SNHU Travel, a travel agency looking to expand its client base through the use of modern software solutions. The development process will utilize the Scrum-Agile methodology to foster collaboration, adaptability, and continuous improvement.
 
